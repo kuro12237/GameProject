@@ -1,3 +1,6 @@
 [submodule "Engine"]
 	path = Engine
 	url = https://github.com/kuro12237/Engine
+[submodule "bat/Engine"]
+	path = bat/Engine
+	url = https://github.com/kuro12237/Engine
